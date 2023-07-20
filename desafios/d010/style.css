@@ -109,7 +109,7 @@ strong {
 }
 
 main h2 {
-    font-family: Android;
+    font-family: "Android";
     color: #1A5C37;
     background-image: linear-gradient(to right, #84E1AD, transparent);
     font-size: 20px;
