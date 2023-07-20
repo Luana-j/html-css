@@ -6,7 +6,7 @@
 }
 
 @font-face {
-    font-family: 'Android';
+    font-family: 'idroid';
     src: url('fontes/android/idroid.otf') format(opentype);
 }
 
@@ -89,7 +89,7 @@ main {
 }
 
 main > h1 {
-    font-family: "Android";
+    font-family: 'idroid';
     color: #063D1E;
     font-weight: lighter;
     font-size: 28px;
@@ -109,7 +109,7 @@ strong {
 }
 
 main h2 {
-    font-family: "Android";
+    font-family: 'idroid';
     color: #1A5C37;
     background-image: linear-gradient(to right, #84E1AD, transparent);
     font-size: 20px;
